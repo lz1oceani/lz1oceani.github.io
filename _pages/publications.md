@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal contribution
+<sup>*</sup> , <sup>**</sup>,  <sup>***</sup> Equal contribution
