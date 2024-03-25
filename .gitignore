@@ -1,0 +1,12 @@
+_site/
+images/posts/*.tex
+images/posts/*.pdf
+images/posts/*.sty
+_source/*_cache
+.Rproj.user
+.vscode
+**/.DS_Store
+.history
+squashed_push.sh
+.gitignore
+lz1oceani.github.io.code-workspace
