@@ -10,3 +10,4 @@ _source/*_cache
 squashed_push.sh
 .gitignore
 lz1oceani.github.io.code-workspace
+.DS_Store
